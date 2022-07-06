@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/DLNSrv/DalamudPluginRepo/raw/master/plugins/LootMaster/latest.zip",
         "DownloadLinkUpdate": "https://github.com/DLNSrv/DalamudPluginRepo/raw/master/plugins/LootMaster/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657149281"
+        "LastUpdated": "1657151247"
     },
     {
         "Author": "kalilistic",
@@ -36,6 +36,27 @@
         "DownloadLinkTesting": "https://github.com/DLNSrv/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/DLNSrv/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1657149281"
+        "LastUpdated": "1657151247"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "EasyZoom",
+        "Description": "Easy zoom distance unlock and fov control. /ezoom to open config panel",
+        "InternalName": "EasyZoom",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "zoom",
+            "akira0245"
+        ],
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/DLNSrv/DalamudPluginRepo/raw/master/plugins/EasyZoom/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/DLNSrv/DalamudPluginRepo/raw/master/plugins/EasyZoom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/DLNSrv/DalamudPluginRepo/raw/master/plugins/EasyZoom/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1657151247"
     }
 ]
