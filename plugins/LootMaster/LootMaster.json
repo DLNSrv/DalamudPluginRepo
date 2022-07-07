@@ -2,7 +2,7 @@
   "Author": "akira0245",
   "Name": "LootMaster",
   "InternalName": "LootMaster",
-  "AssemblyVersion": "0.1.0.0",
+  "AssemblyVersion": "1.0.2.2",
   "Description": "Roll loots via text command.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/DLNSrv/LootMaster",
